@@ -3,6 +3,8 @@ node_modules
 # Output
 .output
 .vercel
+.netlify
+.wrangler
 /.svelte-kit
 /build
 
@@ -19,12 +21,3 @@ Thumbs.db
 # Vite
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
-
-.dockerdata
-.aider*
-.env
-.env
-scriberr-backend/cmd
-scriberr-backend/storage
-scriberr-backend/__pycache__
-scriberr-backend/test-storage
